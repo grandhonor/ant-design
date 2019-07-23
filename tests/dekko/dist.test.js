@@ -5,10 +5,10 @@ $('dist')
   .isDirectory()
   .hasFile('antd-with-locales.js')
   .hasFile('antd-with-locales.min.js')
-  .hasFile('antd.css')
-  .hasFile('antd.min.css')
-  .hasFile('antd.js')
-  .hasFile('antd.min.js')
+  .hasFile('gh-antd.css')
+  .hasFile('gh-antd.min.css')
+  .hasFile('gh-antd.js')
+  .hasFile('gh-antd.min.js')
   .hasFile('antd.less');
 
 // eslint-disable-next-line
